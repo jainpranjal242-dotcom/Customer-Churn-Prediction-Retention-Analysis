@@ -1,0 +1,1 @@
+pandas>=2.0\nnumpy>=1.24\nmatplotlib>=3.7\nseaborn>=0.12\nscikit-learn>=1.3\njupyter>=1.0\nnbformat>=5.9\nreportlab>=4.0\n
